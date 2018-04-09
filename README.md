@@ -1,6 +1,0 @@
-# artisans.io
-
-ARTISANS.IO sp. z o.o.
-AL. PŁK. WŁ. BELINY-PRAŻMOWSKIEGO 14
-31-514 Kraków
-NIP 6751576778
