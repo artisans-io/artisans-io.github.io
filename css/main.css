@@ -140,6 +140,13 @@ nav#top a:hover {
   text-align: center;
 }
 
+@font-face {
+  font-family: 'Bradley Hand';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Bradley Hand'), url('fonts/Bradleys.woff') format('woff');
+}
+
 section.block {
   padding: 2em 0;
   min-height: 20em;
