@@ -1,0 +1,38 @@
+members:
+  - title: Michał Dziadkowiec
+    text: Geek Developer & Apple fan. Programming trainer at Sages, Altkom Akademia and Compendium on iOS / Swift. CTO at Smartview360 GmbH and co-founder of artisans.io
+    image: /assets/photos/members/michal-dziadkowiec.jpg
+    url: '#'
+  - title: Leszek Para
+    text: Practically oriented developer with wide interests outside IT. Of preference, a backend with full-stack branches and DevOps (AWS). Linguistically - C#, Python, JavaScript, PHP. Co-founder of artisans.io.
+    image: /assets/photos/members/leszek-para.jpg
+    url: '#'
+  - title: Krzysztof Ścira
+    text: A graduate of AGH (Applied Computer Science in Metallurgy), for many years associated with the subject of front-end and mobile. Active programmer, programming trainer, author of articles and speaker. In his spare time he is an Olympic boxing enthusiast.
+    image: /assets/photos/members/krzysztof-scira.jpg
+    url: '#'
+  - title: Adrian Gadzina
+    text: Frontend developer with several years of experience. He specializes in Angular. He also has backend experience - Laravel and MySQL. In his spare time, he enjoys hiking and biking.
+    image: /assets/photos/members/adrian-gadzina.jpg
+    url: '#'
+  - title: Krzysztof Osipowicz
+    text: Backend developer with many years of experience. He specializes in Java / PHP / Laravel and MySQL. In his spare time, he enjoys healthy food and an active lifestyle.
+    image: /assets/photos/members/krzysztof-osipowicz.jpg
+    url: '#'
+  - title: Kamil Kowalski
+    text: >+
+      IOS developer and programming trainer. Security Geek. Technical polyglot: programs in Swift, C #, C ++, JavaScript, Python and Go. Addicted to coffee
+    image: /assets/photos/members/kamil-kowalski.jpg
+    url: '#'
+  - title: Aleksandra Chomiak
+    text: Pushing the Software Quality to a completely new level
+    image: /assets/photos/members/aleksandra-chomiak.jpg
+    url: '#'
+  - title: Agata Kalemba
+    text: For 8 years associated with the design industry. Very empathetic and human-oriented. An animal lover who loves to travel in good company.
+    image: /assets/photos/members/agata-kalemba.jpg
+    url: '#'
+  - title: Your spot!
+    text: We reserved a special place just for you!
+    image: /assets/photos/members/placeholder.png
+    url: '#'

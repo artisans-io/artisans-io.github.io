@@ -1,0 +1,15 @@
+copyright: '&copy; Copyright 2014-2022'
+links:
+  - text: artisans.io
+    url: 'https://artisans.io/'
+  - text: Cookies
+    url: '/cookies'
+  - text: Privacy policy 
+    url: '/privacy'
+  # - text: Terms of service 
+    # url: '/terms-of-serive'
+
+    # new_window: true
+contact:
+  text: >+
+    Before we start, we would like to better understand your needs. We’ll review your application and schedule a free estimation call.

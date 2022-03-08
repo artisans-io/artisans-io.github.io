@@ -1,0 +1,9 @@
+members:
+  - title: Michał Dziadkowiec
+    text: Geek Developer & Apple fan. Programming trainer at Sages, Altkom Akademia and Compendium on iOS / Swift. CTO at Smartview360 GmbH and co-founder of artisans.io
+    image: /assets/photos/members/michal-dziadkowiec.jpg
+    url: '#'
+  - title: Leszek Para
+    text: Practically oriented developer with wide interests outside IT. Of preference, a backend with full-stack branches and DevOps (AWS). Linguistically - C#, Python, JavaScript, PHP. Co-founder of artisans.io.
+    image: /assets/photos/members/leszek-para.jpg
+    url: '#'
