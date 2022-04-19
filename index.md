@@ -14,12 +14,19 @@ sections:
     section_id: about
     background_style: bg-primary
     title: We've got what you need!
-    text: We build digital products cratfed for humans. We make apps, websites, technology and providing workshops and trainings. We are not an agency, all of our ventures are partnerships. <br /><br />We are an entirely remote team of software engineers, designers, entrepreneurs, problem solvers, rock climbers, photographers, mathematicians and more.<br/><br/>
-      For Smartview360 GmbH we created the OrderBOOK, VoteBOOK and WorkBOOK that are used by thousands of customers around the world.<br/><br/> We work with people that share our passion for great design, innovation & brave ideas. If that’s you, <strong>get in touch</strong>.
+    text: We build digital products cratfed for humans. We make apps, websites, technology and provide workshops and trainings. We are not an agency, all of our ventures are partnerships. <br /><br />We are an entirely remote team of software engineers, designers, entrepreneurs, problem solvers, ski sport lovers, philosophers, mathematicians and more.<br/><br/>
+      For Smartview360 GmbH we created the <strong>ORDER</strong>BOOK and <strong>WORK</strong>BOOK that are used by thousands of customers around the world.<br/><br/> We work with people that share our passion for great design, innovation & brave ideas. If that’s you, <strong>get in touch</strong>.
     # actions:
     #   - title: Get Started!
     #     url: '/about'
     #     class: btn-light
+
+
+  - type: orderbook.html
+    section_id: orderbook
+    # background_style: bg-primary
+    title: OrderBOOK
+    text: lorem ipsum
 
   # - type: portfolio.html
   #   # this section has always ID 'portfolio'
