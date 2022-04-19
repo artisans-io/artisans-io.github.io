@@ -10,15 +10,16 @@ header:
 
 
 sections:
-  - type: call-to-action.html
+  - type: about.html
     section_id: about
     background_style: bg-primary
     title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
-    actions:
-      - title: Get Started!
-        url: '/about'
-        class: btn-light
+    text: We build digital products cratfed for humans. We make apps, websites, technology and providing workshops and trainings. We are not an agency, all of our ventures are partnerships. <br /><br />We are an entirely remote team of software engineers, designers, entrepreneurs, problem solvers, rock climbers, photographers, mathematicians and more.<br/><br/>
+      For Smartview360 GmbH we created the OrderBOOK, VoteBOOK and WorkBOOK that are used by thousands of customers around the world.<br/><br/> We work with people that share our passion for great design, innovation & brave ideas. If that’s you, <strong>get in touch</strong>.
+    # actions:
+    #   - title: Get Started!
+    #     url: '/about'
+    #     class: btn-light
 
   # - type: portfolio.html
   #   # this section has always ID 'portfolio'
@@ -53,27 +54,22 @@ sections:
   #       icon: 6.jpg
   #       url: '#'
 
-  - type: paragraph.html
-    section_id: info
-    title: Get some help!
-    text: >+
-      There is a quick reference and showscase of Markdown Syntax Here:
+  # - type: paragraph.html
+  #   section_id: info
+  #   title: Get some help!
+  #   text: >+
+  #     There is a quick reference and showscase of Markdown Syntax Here:
 
-      * [Markdown Syntax Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+  #     * [Markdown Syntax Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-      * [John Gruber's original spec](http://daringfireball.net/projects/markdown/).
+  #     * [John Gruber's original spec](http://daringfireball.net/projects/markdown/).
 
-      * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
+  #     * [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
 
   # - type: founders.html
   #   section_id: founders
   #   title: Founders
   #   background_style: bg-info text-white
-
-  - type: manifesto.html
-    section_id: manifesto
-    title: Software Craftsmen Manifesto
-    background_style: bg-info text-white
 
 ---
 

@@ -14,22 +14,22 @@ sections:
     #     url: '#page-top'
     #     class: btn-light
 
-  - type: paragraph.html
-    section_id: why-how-what
-    # title: Get some help!
-    text_style: text-left
-    text: >+
-      # Why?
+  # - type: paragraph.html
+  #   section_id: why-how-what
+  #   # title: Get some help!
+  #   text_style: text-left
+  #   text: >+
+  #     # Why?
 
-      We believe that you can grow and improve your skills only through communication, help and cooperation with others members of very skilful community. Someday we want you to join us to help others to grow also.
+  #     We believe that you can grow and improve your skills only through communication, help and cooperation with others members of very skilful community. Someday we want you to join us to help others to grow also.
 
-      # How?
+  #     # How?
 
-      Valuable digital products, great trainings and ability to meet people not only from your local area as online catalog of the best artisans you find in our Universe.
+  #     Valuable digital products, great trainings and ability to meet people not only from your local area as online catalog of the best artisans you find in our Universe.
       
-      # What?
+  #     # What?
 
-      Great community of companies and professionals that are ready to change the World to make it better place so humanity can thrive!
+  #     Great community of companies and professionals that are ready to change the World to make it better place so humanity can thrive!
 
   # - type: aside.html
   #   section_id: aside
@@ -48,7 +48,7 @@ sections:
       - title: Honest
         text: Be Honest about the work and be kind to people. Being compassionate is key to success. Treat others in respectful way while being constructive and supportive. "Be soft on the person and hard on the problem"
         icon: fa-user
-        url: https://startbootstrap.com/
+        # url: https://startbootstrap.com/
       - title: Humble
         text: If someone can prove me wrong and show me my mistake in any tought or action, I shall gladly change. I seek the truth, which never harmed anyone. The harm is o persit in one's own self-deception and ignorance (Marcus Aurelius). *Never* be ashamed to ask for help.
         icon: fa-seedling
@@ -58,11 +58,16 @@ sections:
 
   - type: quote.html
     section_id: bauman
-    title: "Sztuka życia"
+    title: "The Art of Life"
     text_style: text-medium
     text: >+
       Our lives, whether we know it or not and whether we relish the news or bewail it, are works of art. To live our lives as the art of life demands, we must, just like the artists of any art, set ourselves challenges which are difficult to confront point-blank; we must choose targets that are well beyond our reach, and standards of excellence that vexingly seem to stay stubbornly far above our ability to match whatever we do or may be doing. <span>We need to attempt the impossible</span>. And we can only hope, with no support from a trustworthy favourable prognosis (let alone from certainty), that with a long and grinding effort we may sometime manage to match those standards and reach those targets and so rise to the challenge.
     author: >+
       Zygmunt Bauman
+
+  # - type: manifesto.html
+  #   section_id: manifesto
+  #   title: Software Craftsmen Manifesto
+  #   background_style: bg-info text-white
 
 ---
