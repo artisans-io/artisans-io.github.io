@@ -4,8 +4,8 @@ links:
     url: 'https://artisans.io/'
   - text: Cookies
     url: '/cookies'
-  - text: Privacy policy 
-    url: '/privacy'
+  # - text: Privacy policy 
+    # url: '/privacy'
   # - text: Terms of service 
     # url: '/terms-of-serive'
 

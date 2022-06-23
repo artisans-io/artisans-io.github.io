@@ -22,11 +22,11 @@ sections:
     #     class: btn-light
 
 
-  - type: orderbook.html
-    section_id: orderbook
-    # background_style: bg-primary
-    title: OrderBOOK
-    text: lorem ipsum
+  # - type: orderbook.html
+  #   section_id: orderbook
+  #   # background_style: bg-primary
+  #   title: OrderBOOK
+  #   text: lorem ipsum
 
   # - type: portfolio.html
   #   # this section has always ID 'portfolio'
