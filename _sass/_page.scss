@@ -1,0 +1,32 @@
+.pagehead {
+  height: 15em !important;
+  min-height: 15em !important;
+}
+.page-section-smaller {
+  padding: 2rem 0;
+}
+
+dd {
+  margin-bottom: 0.5rem;
+  margin-left: 0;
+  
+}
+
+#manifesto .row {
+  padding: 0 .5em;
+}
+
+#why-how-what {
+  border: .5em solid #fff;
+}
+
+@media (min-width: 768px) {
+
+  dt {
+    font-size: 1.8em !important;
+  }
+  dd {
+    text-indent: 5em;
+    font-size: 2em !important;
+  }
+}

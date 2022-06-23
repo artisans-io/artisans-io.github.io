@@ -1,0 +1,56 @@
+<!-- no footer at all! -->
+<footer class="bg-light py-5">
+  <div class="container">
+
+
+    <div class="row">
+      <!-- <div class="col-sm text-right"></div> -->
+      <div class="col-sm text-center">
+          <img src="{{ '/assets/img/logo/logo-black.png' | relative_url }}" src="artisans.io logo" style="max-height: 4em; margin-bottom: 3em;" />
+      </div>
+    </div>
+
+  <div class="row">
+    <div class="col-sm text-md-right">
+      <p>
+        <strong>ARTISANS.IO sp. z o.o.</strong><br />
+        AL. PŁK. WŁ. BELINY-PRAŻMOWSKIEGO 14<br/>
+        31-514 Kraków
+      </p>
+    </div>
+    <div class="col-sm">
+      <p>
+        Numer KRS 0000661250<br />
+        NIP 6751576778<br />
+        REGON 36645131900000
+      </p>
+    </div>
+  </div>
+
+
+  <div class="row">
+    <div class="col-sm text-right">
+
+      <div class="small text-center text-muted">
+      
+      <p class="text-right">
+        {{ site.data.footer.copyright }}
+      </p>
+    </div>
+
+    </div>
+    <div id="footer-links" class="small col-sm">
+      {% for link in site.data.footer.links %}
+          <a href="{{ link.url }}" {% assign new_window_is_not_empty = link.new_window | is_not_empty %}
+          {% if new_window_is_not_empty %}target="_blank" rel="noopener"
+          {% endif %}>{{ link.text }}</a>
+      {% endfor %} 
+
+    </div>
+
+
+  </div>
+      
+    </div>
+  </div>
+</footer>

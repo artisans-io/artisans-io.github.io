@@ -1,0 +1,21 @@
+<div class=" h-100 d-flex justify-content-center align-items-center {{ section.background_style }}">
+  <div class="container">
+    <div class="col-lg-7 text-white">
+        {{ section.text | markdownify }}
+    </div>
+  </div>
+</div>
+
+<!--
+<section id="{{ section.section_id }}" class="page-section {{ section.background_style }}">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 {{ section.text_style | default: '' }}">
+
+        <div class="text-white-50 mb-4">{{ section.text | markdownify }}</div>
+      </div>
+    </div>
+    {% include actions.html actions=section.actions %}
+  </div>
+</section>
+-->
