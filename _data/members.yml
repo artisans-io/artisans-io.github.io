@@ -1,6 +1,6 @@
 members:
   - title: Michał Dziadkowiec
-    text: Geek Developer & Apple fan. Programming trainer at Sages, Altkom Akademia and Compendium on iOS / Swift. CTO at Smartview360 GmbH and co-founder of artisans.io
+    text: Geek Developer & Apple fan. Programming trainer at Sages, Altkom Akademia and Compendium on iOS / Swift. CTO at Smartview360 GmbH and founder of artisans.io
     image: /assets/photos/members/michal-dziadkowiec.jpg
     url: '#'
   - title: Leszek Para
@@ -21,7 +21,7 @@ members:
     url: '#'
   - title: Kamil Kowalski
     text: >+
-      IOS developer and programming trainer. Security Geek. Technical polyglot: programs in Swift, C #, C ++, JavaScript, Python and Go. Addicted to coffee
+      iOS developer and programming trainer. Security Geek. Technical polyglot: programs in Swift, C #, C ++, JavaScript, Python and Go. Addicted to coffee
     image: /assets/photos/members/kamil-kowalski.jpg
     url: '#'
   - title: Aleksandra Chomiak
@@ -31,6 +31,14 @@ members:
   - title: Agata Kalemba
     text: For 8 years associated with the design industry. Very empathetic and human-oriented. An animal lover who loves to travel in good company.
     image: /assets/photos/members/agata-kalemba.jpg
+    url: '#'
+  - title: Agnieszka Olejniczak
+    text: QA with 15 years of experience. A detail-oriented person who is not&nbsp;afraid to ask questions.
+    image: /assets/photos/members/placeholder.png
+    url: '#'
+  - title: Maksymilian Kotłowski
+    text: iOS Developer paying close attention to details. He loves creating applications that solve real problems. Fan of F1, mountains and Italian food.
+    image: /assets/photos/members/maksymilian-kotlowski.jpg
     url: '#'
   - title: Your spot!
     text: We reserved a special place just for you!
