@@ -1,6 +1,6 @@
 members:
   - title: Michał Dziadkowiec
-    text: Geek Developer & Apple fan. Programming trainer at Sages, Altkom Akademia and Compendium on iOS / Swift. CTO at Smartview360 GmbH and founder of artisans.io
+    text: Geek Developer & Apple fan.<br /> Loves self-development and providing programming trainings. CTO at Smartview360 GmbH and founder of artisans.io.
     image: /assets/photos/members/michal-dziadkowiec.jpg
     url: '#'
   - title: Leszek Para
@@ -25,12 +25,20 @@ members:
     image: /assets/photos/members/kamil-kowalski.jpg
     url: '#'
   - title: Aleksandra Chomiak
-    text: QA with 5 years of experience in e-commerce. Perfectionist but only at work:) Loves sports and couldn't live without wakeboarding, crossfit and running. For 2 years in digital nomad mode living in different parts of the world.
+    text: QA with 7 years of experience in e-commerce. Perfectionist but only at work:) Loves sports and couldn't live without wakeboarding, crossfit and running. For 2 years in digital nomad mode living in different parts of the world.
     image: /assets/photos/members/aleksandra-chomiak.jpg
     url: '#'
   - title: Maksymilian Kotłowski
     text: iOS Developer paying close attention to details. He loves creating applications that solve real problems. Fan of F1, mountains and Italian food.
     image: /assets/photos/members/maksymilian-kotlowski.jpg
+    url: '#'
+  - title: Robert Kaleciński
+    text: Strives to simplify people’s lives by creating iOS apps since pre-ARC times. Aspiring Digital nomad, shooter, hiker, biker, gamer. Values a healthy, balanced lifestyle, great food and a good company.
+    image: /assets/photos/members/robert-kalecinski.jpg
+    url: '#'
+  - title: Robert Bartkowski
+    text: Highly competent PHP developer/ DevOps with 14 years' experience for a wide range of corporate and public sector clients. Blokchain technology and embeded systems enthusiast. Sport lover.
+    image: /assets/photos/members/robert-bartkowski.jpg
     url: '#'
   - title: Your spot!
     text: We reserved a special place just for you!
