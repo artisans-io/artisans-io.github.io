@@ -28,10 +28,6 @@ members:
     text: QA with 7 years of experience in e-commerce. Perfectionist but only at work:) Loves sports and couldn't live without wakeboarding, crossfit and running. For 2 years in digital nomad mode living in different parts of the world.
     image: /assets/photos/members/aleksandra-chomiak.jpg
     url: '#'
-  - title: Maksymilian Kotłowski
-    text: iOS Developer paying close attention to details. He loves creating applications that solve real problems. Fan of F1, mountains and Italian food.
-    image: /assets/photos/members/maksymilian-kotlowski.jpg
-    url: '#'
   - title: Robert Kaleciński
     text: Strives to simplify people’s lives by creating iOS apps since pre-ARC times. Aspiring Digital nomad, shooter, hiker, biker, gamer. Values a healthy, balanced lifestyle, great food and a good company.
     image: /assets/photos/members/robert-kalecinski.jpg
@@ -40,6 +36,10 @@ members:
     text: Highly competent PHP developer/ DevOps with 14 years' experience for a wide range of corporate and public sector clients. Blokchain technology and embeded systems enthusiast. Sport lover.
     image: /assets/photos/members/robert-bartkowski.jpg
     url: '#'
+  - title: Marcel Spisak
+    text: Web Developer and Project Manager with a focus on delivering business value. Passionate about learning new technologies and AI. Outside of work, he enjoys traveling and editing videos.
+    image: /assets/photos/members/marcel-spisak.jpg
+    url: '#'    
   - title: Your spot!
     text: We reserved a special place just for you!
     image: /assets/photos/members/placeholder.png
