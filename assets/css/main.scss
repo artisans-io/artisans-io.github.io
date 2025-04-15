@@ -4,13 +4,49 @@
 @charset "utf-8";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "member-box",
-        "timeline",
-        "page",
-        "icons"
-;
+@use "member-box";
+@use "timeline";
+@use "page";
+@use "icons";
 
 #about {
         min-height: 100%;
+}
+
+// Blog styles
+.post-list {
+    list-style: none;
+    padding: 0;
+    
+    li {
+        margin-bottom: 2rem;
+        padding-bottom: 1.5rem;
+        border-bottom: 1px solid #eee;
+    }
+    
+    .post-meta {
+        color: #666;
+        font-size: 0.9rem;
+    }
+    
+    .post-tags {
+        margin: 0.5rem 0;
+        
+        .badge {
+            margin-right: 0.3rem;
+            background-color: #f1f1f1;
+            color: #333;
+            font-weight: normal;
+        }
+    }
+    
+    .post-excerpt {
+        margin-top: 0.75rem;
+        
+        .read-more {
+            display: inline-block;
+            margin-top: 0.5rem;
+            font-weight: bold;
+        }
+    }
 }
