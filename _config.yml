@@ -6,6 +6,7 @@ url: "https://artisans.io" # the base hostname & protocol for your site
 author: artisans.io
 lang: en_US
 permalink: pretty
+show_excerpts: true
 
 contact:
   text: >-
