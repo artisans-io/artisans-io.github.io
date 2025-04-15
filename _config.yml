@@ -7,6 +7,7 @@ author: artisans.io
 lang: en_US
 permalink: pretty
 show_excerpts: true
+excerpt_separator: <!--more-->
 
 contact:
   text: >-

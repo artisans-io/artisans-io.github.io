@@ -6,9 +6,9 @@ categories: blog
 author: Michał Dziadkowiec
 ---
 
-## Humbly Begginings
-
 We started working together in 2005 when we first meet in high school. Amras and Settembrini founded artisans.io 12 years later:)
+
+<!--more-->
 
 As AKSZ Team we create a presentation for Join Multimedia Challange organized by Siemens. For purpose of this project Michał Dziadkowiec created a custom 2min 3D intro. We even recorded a full CD Album!
 

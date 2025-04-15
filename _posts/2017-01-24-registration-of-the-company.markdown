@@ -6,10 +6,10 @@ categories: blog
 author: Michał Dziadkowiec
 ---
 
-## Blog reactivation
-
 Company was registered on 2017-01-24.
 I wanted to be registered on the 24th of January because it was the anniversary of releasing Macintosh by Apple.
+
+<!--more-->
 
 <img src="{{ '/assets/photos/2017/artisans-io-founders.jpg' | relative_url }}" alt="artisans.io Founders" class="img-fluid">
 
